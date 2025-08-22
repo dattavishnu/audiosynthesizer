@@ -1,0 +1,3 @@
+/home/vishnu/game/build/CMakeFiles/MySFMLProject.dir
+/home/vishnu/game/build/CMakeFiles/edit_cache.dir
+/home/vishnu/game/build/CMakeFiles/rebuild_cache.dir
